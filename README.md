@@ -21,10 +21,15 @@ Matplotlib
 The dataset contains IoT network activity data used for training and testing anomaly detection models.
 
 ## Project Goals
-Detect suspicious activities
-Improve smart home security
-Reduce false alarms
-Future Improvements
-Real-time monitoring
-Advanced deep learning models
-Cloud integration
+*Detect suspicious activities
+*Improve smart home security
+*Reduce false alarms
+*Future Improvements
+*Real-time monitoring
+*Advanced deep learning models
+*Cloud integration
+
+## Future Improvements
+*Real-time monitoring
+*Advanced deep learning models
+*Cloud integration

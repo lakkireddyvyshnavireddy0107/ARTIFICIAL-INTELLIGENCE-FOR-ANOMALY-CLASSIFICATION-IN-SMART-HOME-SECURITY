@@ -18,6 +18,6 @@ The dataset contains IoT network activity data used for training and testing ano
 *Cloud integration
 
 ## Future Improvements
-*Real-time monitoring
-*Advanced deep learning models
-*Cloud integration
+* Real-time monitoring 
+* Advanced deep learning models 
+* Cloud integration 

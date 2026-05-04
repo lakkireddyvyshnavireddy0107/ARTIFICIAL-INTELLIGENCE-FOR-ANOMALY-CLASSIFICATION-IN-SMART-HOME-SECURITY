@@ -8,6 +8,18 @@ This project focuses on building an intelligent home security system using machi
 
 The dataset contains IoT network activity data used for training and testing anomaly detection models.
 
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+
+## Machine Learning Model
+- Extra Trees Classifier
+- Naive Bayes
+
+
 ## Project Goals
 * Detect suspicious activities 
 * Improve smart home security 
@@ -16,6 +28,11 @@ The dataset contains IoT network activity data used for training and testing ano
 *Real-time monitoring
 *Advanced deep learning models
 *Cloud integration
+
+## Results
+- Improved anomaly detection accuracy
+- Better fault classification in IoT networks
+- Enhanced smart home security
 
 ## Future Improvements
 * Real-time monitoring 
